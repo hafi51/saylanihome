@@ -1,0 +1,7 @@
+// some of these errors were handeled.
+
+
+Only one stylesheet works at a time.
+in laptop version. header-buttons take border which has been removed.
+
+
